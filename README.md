@@ -1,32 +1,133 @@
 ### Hi! 👋 I'm Dicky.
 
-A student from Dharma Andalas University who loves to create and share projects about web and mobile technology! I love JavaScript and am learning to master it.
+A student from Dharma Andalas University who loves to create and share projects about web and mobile technology! I love JavaScript and Python and am learning to master it.
 
-I am currently actively studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> and Bangkit Academy
+I am currently actively studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> and Bangkit Academy Last year, but now I focused to my collage for graduated.
 
-- 🔭 I’m currently Study on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> from Bangkit Academy
-- 🌱 I’m currently learning about Machine Learning
-- 💬 Feel free to learn from each other
-- 📫 How to reach me: m794b4ky2313@bangkit.academy
-- ⚡ Fun fact: RPG Gamer(F2P Player)
+- 🏫 **Academic Journey**  
+  - 🔭 Currently pursuing my degree at [Universitas Dharma Andalas](https://unidha.ac.id/) (expected to graduate within 1-2 semesters with **cumlaude** distinction)  
+  - 🎓 Last year completed advanced studies at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> through Bangkit Academy (Graduated with **Distinction**)
+- 🌱 **Current Focus**  
+  Deepening expertise in Machine Learning and its engineering implementations
+- 💬 **Collaboration**  
+  Open to knowledge exchange - feel free to discuss tech/ML concepts!
+- 📫 **Reach Me**  
+  Professional inquiries: muhammaddq16@gmail.com  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-dicky-desriansyah-23a79b2aa)
+- ⚡ **Beyond Code**  
+  RPG enthusiast (Proud F2P player mastering resource optimization 🎮)
 
 ### My Hopefully i can use Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <br>
-  <br>
+  <be>
+
+<div align="center">
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zalaamxdawila&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zalaamxdawila&layout=compact&theme=algolia"/>
-</a>
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58B6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://github.com/zalaamxdawila?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zalaamxdawila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/zalaamxdawila?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zalaamxdawila?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/zalaamxdawila">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=zalaamxdawila&style=for-the-badge&color=blue"/>
+  </a>
 </p>
 
+</div>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalaamxdawila&theme=tokyonight" width="100%" />
+</p>
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 📈 Language Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalaamxdawila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445" alt="Most Used Languages" />
+</div>
+
+## 🚀 Productivity & Coding Time
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zalaamxdawila&theme=tokyonight" alt="Coding Activity" />
+</div>
+
+## 📚 Current Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <p align="center">
+        <a href="https://github.com/zalaamxdawila/project-1" target="_blank">
+          <img src="https://dummyimage.com/600x400/000/fff&text=Project+1" width="100%" alt="Project 1"/>
+        </a>
+        <p align="center">
+          Description of your awesome project 1
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <p align="center">
+        <a href="https://github.com/zalaamxdawila/project-2" target="_blank">
+          <img src="https://dummyimage.com/600x400/000/fff&text=Project+2" width="100%" alt="Project 2"/>
+        </a>
+        <p align="center">
+          Description of your awesome project 2
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+
+
 ### Reach me on
-- <a href="https://www.linkedin.com/in/m-dicky-desriansyah-23a79b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-- m794b4ky2313@bangkit.academy
+ <a href="https://www.linkedin.com/in/m-dicky-desriansyah-23a79b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> <br>
+ muhammaddq16@gmail.com
