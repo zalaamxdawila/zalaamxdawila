@@ -89,28 +89,16 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">HOFE</h3>
-      <p align="center">
+      <p align="center" valign="center">
         <a href="https://github.com/ajimaulana123/HOFE-hoax-detection-for-everyone" target="_blank">
-          <img src="https://github.com/ajimaulana123/HOFE-hoax-detection-for-everyone/blob/main/Logo_Hofe.png" width="100%" alt="Project 1"/>
+          <img src="https://github.com/ajimaulana123/HOFE-hoax-detection-for-everyone/blob/main/Logo_Hofe.png" width="350px" alt="HOFE Project"/>
         </a>
-        <p align="left">
-          Imagine harnessing the power of AI to separate fact from fiction in real-time, empowering everyone to make informed decisions with HOFE. Join me on a fascinating journey exploring how machine learning transforms our ability to recognize hoaxes and misinformation, thanks to the incredible work done with HOFE. Ever wondered how technology can enhance your critical thinking skills? Discover the magic of HOFE and its role in hoax detection today. Take a look behind the scenes as we dive into the innovative algorithms that drive HOFE and how they can help keep our online spaces safe and reliable. Feeling overwhelmed by the flood of information online? Learn how HOFE is here to help you navigate it confidently and clearly using the latest machine learning technology.
-        </p>
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/zalaamxdawila/project-2" target="_blank">
-          <img src="https://dummyimage.com/600x400/000/fff&text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-        <p align="center">
-          Description of your awesome project 2
-        </p>
+      <p align="justify" valign="bottom">
+        Harness the power of AI to separate fact from fiction in real-time with HOFE. This innovative project empowers users to identify misinformation through advanced machine learning algorithms. By analyzing patterns in language and sources, HOFE provides actionable insights to enhance critical thinking in the digital age.
       </p>
-    </td>
   </tr>
 </table>
 
