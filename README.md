@@ -17,13 +17,6 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
 - ⚡ **Beyond Code**  
   RPG enthusiast (Proud F2P player mastering resource optimization 🎮)
 
-### My Hopefully i can use Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <br>
   <be>
 
@@ -72,7 +65,6 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -98,13 +90,13 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">HOFE</h3>
       <p align="center">
-        <a href="https://github.com/zalaamxdawila/project-1" target="_blank">
-          <img src="https://dummyimage.com/600x400/000/fff&text=Project+1" width="100%" alt="Project 1"/>
+        <a href="https://github.com/ajimaulana123/HOFE-hoax-detection-for-everyone" target="_blank">
+          <img src="https://github.com/ajimaulana123/HOFE-hoax-detection-for-everyone/blob/main/Logo_Hofe.png" width="100%" alt="Project 1"/>
         </a>
-        <p align="center">
-          Description of your awesome project 1
+        <p align="left">
+          Imagine harnessing the power of AI to separate fact from fiction in real-time, empowering everyone to make informed decisions with HOFE. Join me on a fascinating journey exploring how machine learning transforms our ability to recognize hoaxes and misinformation, thanks to the incredible work done with HOFE. Ever wondered how technology can enhance your critical thinking skills? Discover the magic of HOFE and its role in hoax detection today. Take a look behind the scenes as we dive into the innovative algorithms that drive HOFE and how they can help keep our online spaces safe and reliable. Feeling overwhelmed by the flood of information online? Learn how HOFE is here to help you navigate it confidently and clearly using the latest machine learning technology.
         </p>
       </p>
     </td>
