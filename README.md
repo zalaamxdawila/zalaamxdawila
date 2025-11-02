@@ -24,7 +24,7 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
   
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58B6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58B6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/zalaamxdawila?tab=followers">
