@@ -2,8 +2,8 @@
 
   <h1>Hi there! I'm M Dicky Desriansyah, S.Kom. 👋</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58B6FF&center=true&vCenter=true&width=680&lines=Information+Systems+Graduate+(S.Kom.);Machine+Learning+%26+MLOps+Engineer;NLP+%26+Deep+Learning+Practitioner;Full-Stack+Web+%26+GIS+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58B6FF&center=true&vCenter=true&width=680&lines=Information+Systems+Graduate+%28S.Kom.%29;Machine+Learning+%26+MLOps+Engineer;NLP+%26+Deep+Learning+Practitioner;Full-Stack+Web+%26+GIS+Developer" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -15,13 +15,13 @@
     <a href="https://blog.portodq.com/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-Mission_Log-e65100?style=for-the-badge&logo=rss&logoColor=white" alt="Blog Site"/>
     </a>
-    <a href="https://github.com/zalaamxdawila?tab=followers">
+    <a href="https://github.com/zalaamxdawila?tab=followers" target="_blank">
       <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/zalaamxdawila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <a href="https://github.com/zalaamxdawila?tab=repositories&sort=stargazers">
+    <a href="https://github.com/zalaamxdawila?tab=repositories&sort=stargazers" target="_blank">
       <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zalaamxdawila?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
-    <a href="https://github.com/zalaamxdawila">
+    <a href="https://github.com/zalaamxdawila" target="_blank">
       <img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=zalaamxdawila&style=for-the-badge&color=blue"/>
     </a>
   </p>
@@ -72,7 +72,9 @@ I am an **Information Systems graduate (S.Kom.)** from **Universitas Dharma Anda
     <td width="50%" valign="top">
       <h3 align="center">🌊 Tsunami Evacuation Predictor</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Disaster_ML-XGBoost-orange?style=for-the-badge&logo=python" width="220px" alt="Tsunami Predictor"/>
+        <a href="https://text.portodq.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Disaster_ML-XGBoost-orange?style=for-the-badge&logo=python" width="220px" alt="Tsunami Predictor"/>
+        </a>
       </p>
       <p align="justify">
         Machine Learning application powered by <b>XGBoost</b> to predict optimal tsunami evacuation locations in Padang City by analyzing elevation, coastline distance, area capacity, and spatial features.
@@ -147,7 +149,7 @@ I am an **Information Systems graduate (S.Kom.)** from **Universitas Dharma Anda
     <td width="34%" valign="top">
       <h3 align="center">🏗️ Dalil Profil E-Commerce</h3>
       <p align="justify">
-        E-commerce & MIS platform for construction supply business, integrating digital catalog, inventory tracking, and daily automated financial summaries. <i>(Collab with Septia Wulandari)</i>
+        E-commerce & MIS platform for a construction supply business, integrating a digital catalog, inventory tracking, and daily automated financial summaries. <i>(Collab with Septia Wulandari)</i>
       </p>
       <p align="center">
         <a href="https://dalilprofil.portodq.com" target="_blank">
